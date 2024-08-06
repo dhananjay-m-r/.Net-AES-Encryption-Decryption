@@ -1,6 +1,6 @@
 # .Net-AES-Encryption-Decryption
 
-Source code for a desktop app which can excrypt plain to 128 bit AES base64 format and the vice versa decryption. Feel free to use this source code for reference. 
+Source code for a desktop app which can excrypt plain to 128 bit AES base64 format and the vice versa for decryption. Feel free to use this source code for reference. 
 
 **Some points to note:**
 
